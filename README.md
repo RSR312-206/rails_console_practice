@@ -76,7 +76,7 @@
   martin = _
   martin.destroy
 20. Delete all of the students
-  Student.destroy
+  Student.destroy_all
 
   Bonus
 
