@@ -78,3 +78,8 @@
 20. Delete all of the students
   Student.destroy
 
+  Bonus
+
+1.  Use the validates_format_of and regex to only validate names that consist of letters (no numbers or symbols) and start with a capital letter
+2.  Write a custom validation to ensure that no one named Elie Schoppik, Colt Steele or Tim Garcia is included in the students table.
+
